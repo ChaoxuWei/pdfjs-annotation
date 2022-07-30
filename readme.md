@@ -1,3 +1,4 @@
+## 1. Intruduction
 I have figured out the **best solution of pdf.js annotation**, 
 only use **pdf.js dist**, and it is very easy to import into your project. 
 
@@ -5,13 +6,13 @@ only use **pdf.js dist**, and it is very easy to import into your project.
 **仅基于pdf.js-dist**，集成导入现有项目十分简单方便
 
 
-## Demo and source code
+## 2. Demo and source code
 **Demo and source code 源码**: https://demos.libertynlp.com/#/pdfjs-annotation
 
-**Video tutorial 视频教程**:
+**Video tutorial 视频教程**:https://youtu.be/IYD7WKzx-yc
 
 
-## Functions:
+## 3. Functions:
 **① online pdf highlight** : highlight selected text; 
 
 **② online pdf underline** : underline selected text; 
