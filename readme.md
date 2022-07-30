@@ -26,3 +26,5 @@ I have figured out the **best solution of pdf.js annotation**,only use **pdf.js 
 **⑥ 下载批注** : 下载批注和器评论的文本;                
 **⑦ 撤销批注** : 删除当前页面最后一个批注;                  
 **⑧ 帮助** : 打开帮助文章;
+
+![image](https://github.com/ChaoxuWei/pdfjs-annotation/blob/main/demo_screenshot.jpg)
