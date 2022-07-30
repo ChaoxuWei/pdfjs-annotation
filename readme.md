@@ -19,7 +19,7 @@ only use **pdf.js dist**, and it is very easy to import into your project.
 
 **③ online edit annotation** ：add comment/navigate/copy/delete annotation;
 
-**④ output annotations** : output annotations for importing; 
+**④ output annotations** : output annotations, you can import it to other pdf file or store on database; 
 
 **⑤ import annotations** : import annotations for current file; 
 
