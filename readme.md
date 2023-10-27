@@ -13,10 +13,10 @@ And you can always use the latest version of our product when your license is va
 
 
 # 2. Demo and source code        
-**Demo and source code 源码**: https://demos.libertynlp.com/#/pdfjs-annotation           
+**Live Demo 在线Demo**: https://demos.libertynlp.com/#/pdfjs-annotation           
 **Video tutorial 视频教程**:https://youtu.be/IYD7WKzx-yc
 
-# 1. Apply for monthly licence  申请月付授权
+# 3. Apply for monthly licence  申请月付授权
 ### Apply steps.    
 1. Star our project
 2. Email to **weichaoxu1998@gmail.com** give us your **website domain** and tell us your **subscription duration**.
@@ -35,7 +35,7 @@ And you can always use the latest version of our product when your license is va
 
 
 
-# 2. Use <iframe> to embed to our product. 通过<iframe>将网站嵌入您的网站             
+# 4. Use <iframe> to embed to our product. 通过<iframe>将网站嵌入您的网站             
 
 **Notes**: You need to be subscribe firstly to embed our product.                    
 **提示**：需要先订阅后才能嵌入我们的产品.                
