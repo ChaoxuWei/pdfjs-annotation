@@ -1,14 +1,16 @@
 **Note**: This file is only use for the monthly licence developers, otherwise you do not need to read this document.                   
 **提示**：该文件仅对月付订阅开发有用，其他情况的开发者可以不必阅读该文档！
 
+
 # 1. Intruduction
 We have made the **PDFMaster** PDF annotation tool, it is based on **pdf.js and pure JavaScript** , the monthly licence based product is as pwerful as offline code!               
 And you can always use the latest version of our product when your license is valid.          
                                          
-我们基于纯 **JavaScript** 做了一款**pdf.js批注拓展插件-PDFMaster**，月付授权的代码和离线代码包功能完全一样！
+我们基于纯 **JavaScript** 做了一款**pdf.js批注拓展插件-PDFMaster**，月付授权的代码和离线代码包功能完全一样！                      
 且只要授权还有效，就可以一直使用最新版的插件。
 
 ![1c9742fdc914927ee1517418424f090](https://github.com/ChaoxuWei/pdfjs-annotation/assets/110231141/074bb301-f569-4c68-bd20-07c7a6e88092)
+
 
 # 2. Demo and source code        
 **Demo and source code 源码**: https://demos.libertynlp.com/#/pdfjs-annotation           
@@ -30,6 +32,7 @@ And you can always use the latest version of our product when your license is va
 4. 价格: **￥105 元/月(6个月起订)**.
 5. 付款后可获取我们的**技术支持**.
 6. 将我们的插件嵌入到您的网站中
+
 
 
 # 2. Use <iframe> to embed to our product. 通过<iframe>将网站嵌入您的网站             
