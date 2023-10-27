@@ -1,14 +1,7 @@
-## 1. Intruduction
-We have made the **PDFMaster** PDF annotation tool for everyone, it is based on based on **pdf.js and offline pure JavaScript** ,it is very easy to import into your project, if you are interested come on and get the wheel we made for you!          
-我们基于纯离线JavaScript做了一款**pdf.js批注拓展插件-PDFMaster**，可以通过离线代码集成或者通过iframe在线集成，导入现有项目十分简单方便，如果感兴趣的话欢迎联系我们！
-![1c9742fdc914927ee1517418424f090](https://github.com/ChaoxuWei/pdfjs-annotation/assets/110231141/074bb301-f569-4c68-bd20-07c7a6e88092)
+**Note**:this file is only use for the monthly licence developers, otherwise you do not need to read this file.
+**提示**：该文件仅对月付订阅开发有用，其他情况的开发者可以不必阅读该文档！
 
-
-## 2. Demo and source code  
-**Demo and source code 源码**: https://demos.libertynlp.com/#/pdfjs-annotation           
-**Video tutorial 视频教程**:https://youtu.be/IYD7WKzx-yc
-
-# 3. Usage of monthly licence  月付订阅的申请
+# 1. Apply of monthly licence  月付订阅的申请
 ### Apply steps.    
 1. Star our project
 2. Email to **weichaoxu1998@gmail.com** give us your **website domain** and tell us your **subscription duration**.
@@ -26,7 +19,12 @@ We have made the **PDFMaster** PDF annotation tool for everyone, it is based on 
 6. 将我们的插件嵌入到您的网站中
 
 
-### 4. Use <iframe> to embed to our product. 通过<iframe>将网站嵌入您的网站
+## 2. Use <iframe> to embed to our product. 通过<iframe>将网站嵌入您的网站             
+
+**Notes**: You need to be subscribe firstly to embed our product.                    
+**提示**：需要先订阅后才能嵌入我们的产品.                
+
+
 ### Vue
 ```html
 <iframe src="https://pdfmaster.libertynlp.com/web/viewer.html?file=tutorial.pdf"
@@ -80,3 +78,5 @@ export default App;
 <iframe id='my-pdfjs-iframe'  src="https://pdfmaster.libertynlp.com/web/viewer.html?file=tutorial.pdf"
 			frameborder="0" width="100%" height="700px"></iframe>
 ```
+                     
+![1c9742fdc914927ee1517418424f090](https://github.com/ChaoxuWei/pdfjs-annotation/assets/110231141/074bb301-f569-4c68-bd20-07c7a6e88092)
