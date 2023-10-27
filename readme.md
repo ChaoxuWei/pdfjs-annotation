@@ -1,7 +1,7 @@
 **Note**:this file is only use for the monthly licence developers, otherwise you do not need to read this file.                   
 **提示**：该文件仅对月付订阅开发有用，其他情况的开发者可以不必阅读该文档！
 
-# 1. Apply of monthly licence  月付订阅的申请
+# 1. Apply for monthly licence  申请月付订阅
 ### Apply steps.    
 1. Star our project
 2. Email to **weichaoxu1998@gmail.com** give us your **website domain** and tell us your **subscription duration**.
@@ -19,7 +19,7 @@
 6. 将我们的插件嵌入到您的网站中
 
 
-## 2. Use <iframe> to embed to our product. 通过<iframe>将网站嵌入您的网站             
+# 2. Use <iframe> to embed to our product. 通过<iframe>将网站嵌入您的网站             
 
 **Notes**: You need to be subscribe firstly to embed our product.                    
 **提示**：需要先订阅后才能嵌入我们的产品.                
