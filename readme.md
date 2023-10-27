@@ -1,5 +1,5 @@
 **Note**: This file is only use for the monthly licence developers, otherwise you do not need to read this document.                   
-**提示**：该文件仅对月付订阅开发有用，其他情况的开发者可以不必阅读该文档！
+**提示**：该文件仅对月付授权开发者有用，其他情况的开发者可以不必阅读该文档！
 
 
 # 1. Intruduction
@@ -16,7 +16,7 @@ And you can always use the latest version of our product when your license is va
 **Demo and source code 源码**: https://demos.libertynlp.com/#/pdfjs-annotation           
 **Video tutorial 视频教程**:https://youtu.be/IYD7WKzx-yc
 
-# 1. Apply for monthly licence  申请月付订阅
+# 1. Apply for monthly licence  申请月付授权
 ### Apply steps.    
 1. Star our project
 2. Email to **weichaoxu1998@gmail.com** give us your **website domain** and tell us your **subscription duration**.
