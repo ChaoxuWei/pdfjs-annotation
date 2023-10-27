@@ -9,12 +9,13 @@ And you can always use the latest version of our product when your license is va
 我们基于纯 **JavaScript** 做了一款**pdf.js批注拓展插件-PDFMaster**，月付授权的代码和离线代码包功能完全一样！                      
 且只要授权还有效，就可以一直使用最新版的插件。
 
-![1c9742fdc914927ee1517418424f090](https://github.com/ChaoxuWei/pdfjs-annotation/assets/110231141/074bb301-f569-4c68-bd20-07c7a6e88092)
-
 
 # 2. Demo and tutorial       
-**Live Demo 在线Demo**: https://demos.libertynlp.com/#/pdfjs-annotation           
+**Live Demo 在线Demo**: https://demos.libertynlp.com/#/pdfjs-annotation         
+![1c9742fdc914927ee1517418424f090](https://github.com/ChaoxuWei/pdfjs-annotation/assets/110231141/074bb301-f569-4c68-bd20-07c7a6e88092)                 
 
+
+			                  
 # 3. Apply for monthly licence  申请月付授权
 ### Apply steps.    
 1. Star our project
