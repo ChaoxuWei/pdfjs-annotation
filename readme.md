@@ -35,7 +35,7 @@ And you can always use the latest version of our product when your license is va
 
 
 
-# 4. Use <iframe> to embed to our product. 通过<iframe>将网站嵌入您的网站             
+# 4. Embed our product. 嵌入我们的产品             
 
 **Notes**: You need to be subscribe firstly to embed our product.                    
 **提示**：需要先订阅后才能嵌入我们的产品.                
