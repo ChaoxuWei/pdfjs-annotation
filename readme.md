@@ -1,4 +1,4 @@
-**Note**:this file is only use for the monthly licence developers, otherwise you do not need to read this file.
+**Note**:this file is only use for the monthly licence developers, otherwise you do not need to read this file.                   
 **提示**：该文件仅对月付订阅开发有用，其他情况的开发者可以不必阅读该文档！
 
 # 1. Apply of monthly licence  月付订阅的申请
