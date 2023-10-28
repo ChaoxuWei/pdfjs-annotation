@@ -27,7 +27,7 @@ And you can always use the latest version of our product when your license is va
 
 ### 申请步骤.    
 1. Star项目
-2. 发邮箱到 **weichaoxu1998@gmail.com**告知您的**网站域名**和**订阅时长**.
+2. 发送邮件到 **weichaoxu1998@gmail.com**告知您的**网站域名**和**订阅时长**.
 3. 通过**银行卡、微信或者支付宝**付款.
 4. 价格: **￥105 元/月(6个月起订)**.
 5. 付款后可获取我们的**技术支持**.
