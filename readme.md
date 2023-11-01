@@ -21,17 +21,21 @@ And you can always use the latest version of our product when your license is va
 1. Star our project
 2. Email to **weichaoxu1998@gmail.com** give us your **website domain** and tell us your **subscription duration**.
 3. Pay through **PayPal**.
-4. Pricng: **$15 USD per month(6-12 months)**.
-5. Obtain our **technology support**.
-6. Embed our product to your project
+4. Pricng: 
+	**$15 USD per month(6-12 months), personal use version**.                               
+   	**$50 USD per month(6-12 months), company use version, more stable**.                 
+6. Obtain our **technology support**.
+7. Embed our product to your project
 
 ### 申请步骤.    
 1. Star项目
 2. 发送邮件到 **weichaoxu1998@gmail.com**告知您的**网站域名**和**订阅时长**.
 3. 通过**银行卡、微信或者支付宝**付款.
-4. 价格: **￥105 元/月(6-12个月)**.
-5. 付款后可获取我们的**技术支持**.
-6. 将我们的插件嵌入到您的网站中
+4. 价格:
+   	**￥105 元/月(6-12个月), 个人使用版**.                 
+   	**￥350 元/月(6-12个月), 公司使用版，比个人版更加稳定**.                 
+6. 付款后可获取我们的**技术支持**.
+7. 将我们的插件嵌入到您的网站中
 
 
 
